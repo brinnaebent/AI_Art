@@ -2,6 +2,7 @@
 
 This repository is composed of the Code (Neural Transfer Function.ipynb), the training data scraped from Google, and citations for the Duke AI Art Competition.
 
+
 ## Artist's Statement:
 
 **America the Beautiful: National Parks + Modern Art with a Neural Transfer Model**

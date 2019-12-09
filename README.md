@@ -2,6 +2,7 @@
 
 This repository is composed of the Code (Neural Transfer Function.ipynb), the training data scraped from Google, and citations for the Duke AI Art Competition.
 
+![Image of Art](outputs/Duke_Submission.jpg)
 
 ## Artist's Statement:
 
